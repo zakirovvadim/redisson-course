@@ -17,7 +17,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.LongStream;
 
-public class Lec10HyperLogLogTest extends BaseTest {
+public class Lec11HyperLogLogTest extends BaseTest {
 
     @Test // max memory using 12.5 kb
     public void count() {
